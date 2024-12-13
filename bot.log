@@ -1,0 +1,55 @@
+2024-12-12 18:51:55,117 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 18:52:01,558 - __main__ - INFO - User 5822338043 selected online mode in chat 5822338043
+2024-12-12 18:52:01,995 - __main__ - INFO - Created new online game for user 5822338043 with link https://t.me/Iiiihgvbot?start=578c538e-fc43-4252-bb9a-e2b1b485878e
+2024-12-12 18:52:10,711 - __main__ - INFO - Received truth response from user 6329800356 in chat 6329800356
+2024-12-12 18:52:10,712 - __main__ - WARNING - Invalid truth response from user 6329800356: not their turn or game not found
+2024-12-12 18:52:20,438 - __main__ - INFO - Received truth response from user 5822338043 in chat 5822338043
+2024-12-12 18:52:43,300 - __main__ - INFO - Received truth response from user 5822338043 in chat 5822338043
+2024-12-12 18:52:43,302 - __main__ - WARNING - Invalid truth response from user 5822338043: not their turn or game not found
+2024-12-12 18:52:48,083 - __main__ - INFO - Received truth response from user 6329800356 in chat 6329800356
+2024-12-12 18:58:06,160 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 18:58:09,763 - __main__ - INFO - User 5822338043 requested to stop the game in chat 5822338043
+2024-12-12 18:58:10,076 - __main__ - ERROR - Error sending stop message to user 6329800356: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: chat not found
+2024-12-12 18:58:10,083 - __main__ - INFO - Game deleted for users 5822338043 and 6329800356
+2024-12-12 18:58:10,083 - __main__ - INFO - Game stopped successfully in chat 5822338043
+2024-12-12 19:02:10,292 - __main__ - INFO - New game started by user 1498535992 in chat 1498535992
+2024-12-12 19:02:14,834 - __main__ - INFO - User 1498535992 selected online mode in chat 1498535992
+2024-12-12 19:02:14,970 - __main__ - INFO - Created new online game for user 1498535992 with link https://t.me/td_gamebot?start=c907839b-b22f-4d1e-8b32-c9f4421fcece
+2024-12-12 19:02:27,856 - __main__ - INFO - New game started by user 5018895750 in chat 5018895750
+2024-12-12 19:02:30,676 - __main__ - INFO - User 5018895750 selected online mode in chat 5018895750
+2024-12-12 19:02:30,850 - __main__ - INFO - Created new online game for user 5018895750 with link https://t.me/td_gamebot?start=ef33b4be-2814-4c99-8c39-fcc7fe98abb9
+2024-12-12 19:02:57,589 - __main__ - INFO - Received truth response from user 1498535992 in chat 1498535992
+2024-12-12 19:05:00,594 - __main__ - INFO - New game started by user 680545336 in chat 680545336
+2024-12-12 19:05:05,893 - __main__ - INFO - User 680545336 selected online mode in chat 680545336
+2024-12-12 19:05:06,067 - __main__ - INFO - Created new online game for user 680545336 with link https://t.me/td_gamebot?start=c541e4e5-d350-4d0f-9b76-8fa51165f074
+2024-12-12 19:07:31,763 - __main__ - INFO - Received truth response from user 5096400338 in chat 5096400338
+2024-12-12 19:07:37,394 - __main__ - INFO - Received truth response from user 5096400338 in chat 5096400338
+2024-12-12 19:07:50,711 - __main__ - INFO - New game started by user 5096400338 in chat 5096400338
+2024-12-12 19:07:56,848 - __main__ - INFO - User 5096400338 selected online mode in chat 5096400338
+2024-12-12 19:07:56,970 - __main__ - INFO - Created new online game for user 5096400338 with link https://t.me/td_gamebot?start=781be372-5c98-4850-b719-dab65659becd
+2024-12-12 19:08:19,733 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 19:08:54,683 - __main__ - INFO - New game started by user 5118923250 in chat 5118923250
+2024-12-12 19:08:58,971 - __main__ - INFO - User 5118923250 selected online mode in chat 5118923250
+2024-12-12 19:08:59,086 - __main__ - INFO - Created new online game for user 5118923250 with link https://t.me/td_gamebot?start=7849a556-e3b3-490d-8c8f-2d52e2206a30
+2024-12-12 19:09:24,163 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 19:09:26,471 - __main__ - INFO - User 5822338043 selected online mode in chat 5822338043
+2024-12-12 19:09:27,037 - __main__ - INFO - Created new online game for user 5822338043 with link https://t.me/td_gamebot?start=09074620-d5ae-4022-96e5-5ce91067b58c
+2024-12-12 19:09:43,497 - __main__ - INFO - Received truth response from user 5118923250 in chat 5118923250
+2024-12-12 19:12:57,287 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 19:12:58,939 - __main__ - INFO - User 5822338043 selected online mode in chat 5822338043
+2024-12-12 19:12:59,341 - __main__ - INFO - Created new online game for user 5822338043 with link https://t.me/td_gamebot?start=bd4082b0-f35c-4d4e-86a8-3ec7c1532214
+2024-12-12 19:15:15,792 - __main__ - INFO - Received truth response from user 6021036950 in chat 6021036950
+2024-12-12 19:15:50,996 - __main__ - INFO - New game started by user 5118923250 in chat 5118923250
+2024-12-12 19:15:52,589 - __main__ - INFO - User 5118923250 requested to stop the game in chat 5118923250
+2024-12-12 19:15:53,062 - __main__ - INFO - Game deleted for users 5118923250 and 6021036950
+2024-12-12 19:15:53,062 - __main__ - INFO - Game stopped successfully in chat 5118923250
+2024-12-12 19:16:18,745 - __main__ - INFO - User 5118923250 requested to stop the game in chat 5118923250
+2024-12-12 19:16:19,077 - __main__ - INFO - Game deleted for users 5822338043 and 5118923250
+2024-12-12 19:16:19,077 - __main__ - INFO - Game stopped successfully in chat 5118923250
+2024-12-12 19:16:23,309 - __main__ - INFO - New game started by user 5118923250 in chat 5118923250
+2024-12-12 19:16:34,574 - __main__ - INFO - New game started by user 5118923250 in chat 5118923250
+2024-12-12 19:16:38,734 - __main__ - INFO - User 5118923250 selected online mode in chat 5118923250
+2024-12-12 19:16:38,880 - __main__ - INFO - Created new online game for user 5118923250 with link https://t.me/td_gamebot?start=dedcd693-11a3-46b4-92e3-0d9cfcb1fd16
+2024-12-12 19:16:47,759 - __main__ - INFO - New game started by user 5822338043 in chat 5822338043
+2024-12-12 19:16:49,773 - __main__ - INFO - User 5822338043 selected offline mode in chat 5822338043
+2024-12-12 19:16:49,773 - __main__ - INFO - Starting offline game setup in chat 5822338043
