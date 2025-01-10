@@ -2,6 +2,10 @@
 
 Bu Telegram bot ikki kishilik Truth or Dare o'yinini o'ynash uchun yaratilgan.
 
+
+Telegram manzil:
+
+**https://t.me/td_gamebot**
 ## O'rnatish
 
 1. Repositoryni clone qiling
